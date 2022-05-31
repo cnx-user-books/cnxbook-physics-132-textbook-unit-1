@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>What is a Wave</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71627</md:content-id>
+  <md:title>What is a Wave</md:title>
+  <md:abstract/>
+  <md:uuid>8454994c-bbe6-4158-a43f-d7326f83e725</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-483"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/04iXffwIg4U" window="new"> here. </link></para></problem></exercise><para id="import-auto-idm520903680">What about waves? Before we start talking about waves, it's probably best to give a few different examples of waves. If I ask you to think of a wave the first thing that probably would come to most your minds is a water wave, but we could also have waves on a string, or even sound waves. The most generic picture that a lot of you have, is probably some sort of sine or cosine shape traveling along, but this is not representative of all waves and we want our definition to be in terms of properties that apply to every possible wave that we can think of. </para>
+    <para id="import-auto-idm471169232">Let's go through a few questions and develop a definition of a wave. </para>
+    <para id="import-auto-idm493758848">Does the wave actually have to go anywhere, does a wave travel? No. Sure, most waves go somewhere, water waves travel across an ocean for example, but think of a guitar string, when you pluck it, certainly the string waves back and forth but the string doesn't go anywhere, the wave stands on the string. This is called a standing wave. So, traveling cannot be part of our definition of a wave. </para>
+    <para id="import-auto-idm287985104">Does a wave have to be a repeating pattern? Again, not really. While this might be the image that a lot of you have in mind when I say the word wave, remember we can have just a single pulse going back and forth on a string. </para>
+    <para id="import-auto-idm250018048">Does the wave have to have up and down motion? Well again, no. This standard picture of a wave that you have in your head might but think of a sound wave? In a sound wave the molecules move back and forth in the same direction as the waves motion, in contrast to the wave you probably have in mind where things move perpendicular to the waves motion. </para>
+    <para id="import-auto-idm483671872">Now we need a little bit of terminology. Waves that do wiggle perpendicular to the direction of motion of the wave are called transverse waves. These are the waves that you probably have in mind and these are the ones that were mostly going to be interested in. </para>
+    <para id="import-auto-idm466740448">The basic terminology of transverse waves, we'll introduce some more later, are that waves have a peak and a trough, and then the distance from the zero line to either a peak or a trough is called the amplitude. </para>
+    <figure id="import-auto-idm463832592"><media id="import-auto-idm459456256" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-6600.png" height="317" width="547"/>
+      </media>
+    <caption>(Credit: Krishnavedala)</caption></figure><para id="import-auto-idm289275728">What other properties of a wave could we perhaps use? Can a wave bend around corners? We know that particles don't bend around corners, what about waves? Well, it turns out that waves do bend around corners. Think of a water wave, it spreads out, bending around the corner. In the video on the next slide we'll see some other important properties of waves that all waves do share. </para>
+    <para id="import-auto-idm281886880">I go and just hit the water with a single stick, we see we get waves coming out in all directions, radiating away from the spot where the ball hits the water.</para>
+    <figure id="import-auto-idm256801568">
+      <media id="import-auto-idm505551040" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-d5aa.png" height="249" width="495"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm306901184">Things get a little bit more interesting, however, if we have two sources of waves going at the same time next to each other like so. </para>
+    <figure id="import-auto-idm397265360">
+      <media id="import-auto-idm302096512" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-7523.png" height="294" width="518"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm447552336">So now we get two waves, each radiating out from its source. In some places the waves line up peak to peak, or trough to trough, and add up, resulting in a larger wave at that point. </para>
+    <figure id="import-auto-idm500883488">
+      <media id="import-auto-idm513978816" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4.png" height="357" width="522"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm490114048">In other places, the peak of one wave meets the trough of the other, resulting in some cancellation. </para>
+    <figure id="import-auto-idm505754320">
+      <media id="import-auto-idm411531520" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5.png" height="353" width="423"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm502765776">This phenomenon of waves adding in some places and cancelling in others is known as interference and is a characteristic property of waves. </para>
+    <para id="import-auto-idm298060256">So, what is a wave? Well a wave is a disturbance that can, but doesn't necessarily have to, travel or it can just store energy and momentum. A traveling wave will carry energy from one position to another, think of the water wave that carries energy as it moves across the ocean and also momentum, as that wave hits you, you feel the momentum of the wave. For a standing wave, that energy is just being stored. When I pluck a guitar string, the energy is just being stored in the string and then ultimately releases this sound that we hear. A wave need not necessarily repeat, we can have simple pulse waves. But a wave can bend around corners, and waves of the same kind can interact with each other or with themselves, adding in some places and canceling in other places, through this idea of interference. These are the fundamental characteristics of waves. They don't exist at a particular place, they sort of spread out over a couple of different places and they can carry energy and momentum while bending around corners and interacting with themselves or other waves of the same kind. </para>
+    <exercise id="eip-521"><label/><title><media id="inote2332i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote2332p"><para id="inote2332pp"><list id="eip-idm535341568"><title>To Summarize: </title><item>Particles are localized in space, they don't bend around corners, but can carry energy and momentum.</item><item>Waves on the other hand, are spread out in space, they are some kind of disturbance that can transfer or store energy and momentum.</item><item>However, waves, unlike particles, can bend around corners and also waves can interact with themselves or other waves of the same kind through this phenomenon of interference.</item></list></para></problem></exercise></content>
+</document>

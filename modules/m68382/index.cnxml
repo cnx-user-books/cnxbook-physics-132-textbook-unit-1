@@ -1,0 +1,116 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>What You Should Get Out of the Prep</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68382</md:content-id>
+  <md:title>What You Should Get Out of the Prep</md:title>
+  <md:abstract/>
+  <md:uuid>1f990084-66a5-45e6-8f38-4c0bd7361f69</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm855486592">In order to explore these ideas in class, you need to have a grasp on the basic terminology of waves and particles. You need to know that particles are characterized by their energy, momentum, and number while waves are described by their wavelength and frequency/period, and amplitude. Both waves and particles can be characterized by a speed: a critical fact for converting between the wave and particle pictures. The following chapters will refresh energy and momentum from 131 and introduce the needed concepts for waves: amplitude, frequency, and wavelength. You need to know what all these terms mean, the basic formulas for them, and how they are connected</para>
+    <para id="import-auto-idm928693792">Also in this unit, some of the basic properties of light and electrons. We will establish electrons via a tour of the atom (probably review for most of you). We will also introduce anti-matter: a type of matter identical to the normal matter with which you are familiar in every respect with two exceptions. First, anti-matter has the opposite charge from normal matter (anti-electrons have positive charge). Second, when matter and anti-matter collide, the result is light. While there are other interesting questions about anti-matter (why isn’t it everywhere?) those two points are all you need to know from the prep. With regards to light, we will introduce the different kinds of light (radio, infrared, …) and the particle of light: the photon. Some of the basic properties of the photon will be introduced. The most important of which you need for the prep are the fact that the mass of the photon is zero and the fact that it always travels at the speed of light <emphasis effect="italics">c</emphasis>. Finally, we will also explore de Broglie’s relationship on how to connect wave and particle picture</para>
+    <para id="import-auto-idm912083888">The last topic in this unit’s preparation you need to be familiar with is the idea of intensity: energy per area per time. The text will introduce the idea of power (energy per time) and its unit the Watt. This concept will also be important for converting between the wave and particle pictures. </para>
+    <para id="import-auto-idm928796368">This is a lot of information. Remember, we are not expecting mastery of it all and we are certainly not expecting you to have a complete picture of how everything Just make sure you know the definitions, formulas, and units for everything. To help keep you focused on what is important, there is a summary table below (only focusing on the facts for your quiz) as well as some flashcards at <link url="https://quizlet.com/_52yo7b">Quizlet.</link>.</para><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm400753776" summary="Summary">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>
+              <emphasis effect="bold">General Waves</emphasis>
+            </entry>
+            <entry>
+              
+              <list id="import-auto-idm1737241920" list-type="bulleted"><title><emphasis effect="bold">Properties:</emphasis></title><item>Amplitude <m:math display="block"><m:semantics><m:mi>A</m:mi><m:annotation encoding="StarMath 5.0">A</m:annotation></m:semantics></m:math></item>
+                <item>Wavelength <m:math display="block"><m:semantics><m:mi>λ</m:mi><m:annotation encoding="StarMath 5.0">λ</m:annotation></m:semantics></m:math></item>
+                <item>Period <m:math display="block"><m:semantics><m:mi>T</m:mi><m:annotation encoding="StarMath 5.0">T</m:annotation></m:semantics></m:math></item>
+                <item>Frequency <m:math display="block"><m:semantics><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">f= {1} over {T}</m:annotation></m:semantics></m:math> Speed <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mi>λ</m:mi></m:mrow><m:mi>∙</m:mi><m:mi>f</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">v= λ ∙f</m:annotation></m:semantics></m:math></item>
+              </list>
+            </entry>
+            <entry><list id="eip-idm638575888"><title><emphasis effect="bold">Intensity: </emphasis></title><item>Energy per area per time <m:math display="block"><m:semantics><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>E</m:mi><m:mrow><m:mi>A</m:mi><m:mi>∙</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>P</m:mi><m:mi>A</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">I= {E} over {A∙t} = {P} over {A}</m:annotation></m:semantics></m:math></item></list></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis effect="bold">General Particles</emphasis>
+            </entry>
+            <entry>
+              
+              <list id="import-auto-idm1755950320" list-type="bulleted"><title><emphasis effect="bold">Properties:</emphasis></title><item>Energy <m:math display="block"><m:semantics><m:mi>E</m:mi><m:annotation encoding="StarMath 5.0">E</m:annotation></m:semantics></m:math></item>
+                <item>Momentum <m:math display="block"><m:semantics><m:mover accent="true"><m:mi>p</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {p}</m:annotation></m:semantics></m:math></item>
+                <item>Speed <m:math display="block"><m:semantics><m:mi>v</m:mi><m:annotation encoding="StarMath 5.0">v</m:annotation></m:semantics></m:math></item>
+                <item>Number <m:math display="block"><m:semantics><m:mi>N</m:mi><m:annotation encoding="StarMath 5.0">N</m:annotation></m:semantics></m:math></item>
+              </list>
+            </entry>
+            <entry>
+              
+              <list id="import-auto-idm945465600" list-type="bulleted"><title><emphasis effect="bold">Convert to Waves:</emphasis></title><item>Wave-particle conversion is done through the de Broglie relation <m:math display="block"><m:semantics><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>h</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">p= {h} over {λ}</m:annotation></m:semantics></m:math></item>
+                <item>Can also convert via intensity where the intensity is also related to number per area per time.</item>
+              </list>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Light</emphasis>
+            </entry>
+            <entry>
+             
+              <list id="import-auto-idm353519632" list-type="bulleted"><title><emphasis effect="bold">Waves:</emphasis></title><item>Travel at <m:math display="block"><m:semantics><m:mi>c</m:mi><m:annotation encoding="StarMath 5.0">c</m:annotation></m:semantics></m:math></item>
+                <item>Different frequencies → different kinds of radiation</item>
+                <item>Amplitude <m:math display="block"><m:semantics><m:mi>E</m:mi><m:annotation encoding="StarMath 5.0">E</m:annotation></m:semantics></m:math> (NOT energy!) is related to intensity <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub><m:msup><m:mi>E</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:annotation encoding="StarMath 5.0">I= {1} over {2} {ε} rsub {0} {E} ^ {2}</m:annotation></m:semantics></m:math></item>
+              </list>
+            </entry>
+            <entry>
+              
+              <list id="import-auto-idm1173048320" list-type="bulleted"><title><emphasis effect="bold">Particles (Photons):</emphasis></title><item>Massless</item>
+                <item>Travel at <m:math display="block"><m:semantics><m:mi>c</m:mi><m:annotation encoding="StarMath 5.0">c</m:annotation></m:semantics></m:math></item>
+                <item>
+                  <m:math display="block">
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mi>p</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>E</m:mi>
+                          <m:mi>c</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0">p= {E} over {c}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </item>
+              </list>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Electrons</emphasis>
+            </entry>
+            <entry>
+              
+              <list id="import-auto-idm950818784" list-type="bulleted"><title><emphasis effect="bold">Waves:</emphasis></title><item>You only need the general de Broglie relation <m:math display="block"><m:semantics><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>h</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">p= {h} over {λ}</m:annotation></m:semantics></m:math></item>
+              </list>
+            </entry>
+            <entry>
+              
+              <list id="import-auto-idm410436720" list-type="bulleted"><title><emphasis effect="bold">Particles:</emphasis></title><item>Momentum <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>p</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mi>m</m:mi></m:mrow><m:mi>∙</m:mi><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:annotation encoding="StarMath 5.0">widevec {p} =m∙ widevec {v}</m:annotation></m:semantics></m:math></item>
+                <item>Kinetic energy <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>K</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mi>m</m:mi><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mi>m</m:mi><m:mi>∙</m:mi><m:mover accent="true"><m:mi>p</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:annotation encoding="StarMath 5.0">K= {1} over {2} m {v} ^ {2} =2m∙ widevec {p}</m:annotation></m:semantics></m:math></item>
+                <item>Mass <m:math display="block"><m:semantics><m:mrow><m:mrow><m:msub><m:mi>m</m:mi><m:mi>e</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mn>9.11</m:mn></m:mrow><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>31</m:mn></m:mrow></m:msup><m:mi mathvariant="italic">kg</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{m} rsub {e} =9.11× {10} ^ {-31} kg</m:annotation></m:semantics></m:math></item>
+                <item>Charge <m:math display="block"><m:semantics><m:mrow><m:mrow><m:msub><m:mi>q</m:mi><m:mi>e</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mn>1.67</m:mn></m:mrow><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mi>C</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{q} rsub {e} =1.67× {10} ^ {-19} C</m:annotation></m:semantics></m:math></item>
+              </list>
+            </entry>
+          </row>
+          
+</tbody>
+      
+
+
+
+
+
+
+</tgroup>
+</table></content>
+</document>

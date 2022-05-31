@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Introduction to the Unit</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68380</md:content-id>
+  <md:title>Introduction to the Unit</md:title>
+  <md:abstract/>
+  <md:uuid>e0d8a68a-b46e-4107-9141-0620ec9dc175</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">In this unit, we will follow our ontological framework and begin exploring what light and electrons are by listing some of their basic properties. One of the most famous properties of both light and electrons is known as wave-particle duality: sometimes they behave like particles and sometimes they behave like waves. However, electrons and light are neither particles nor waves: they are a completely new type of object with properties of both. This duality is a reflection of the fact that both light and electrons do not obey the laws of Classical Physics that you learned in Physics 131, they are too small. Instead, electrons and light obey Quantum Mechanics. The way I would recommend that you think about the relationship between classical physics and quantum mechanics is in the paradigm of physics striving for ever-more-accurate approximations to reality. Classical mechanics is a good enough approximation to get people to the moon (they did it!). When things get small, you need a better approximation: quantum mechanics. There is a principle, the correspondence principle, which states the quantum mechanics must reproduce classical mechanics for large objects. </para><para id="eip-830">In this unit we will explore both the wave and particle natures of light and electrons. First however, we must define to ourselves what waves and particles are! Following our ontological framework, we will therefore need to look at some of the basic properties that characterize waves and particles in general. Thus, we will begin with some review of particles from physics 131 and then a discussion of waves, which may be familiar to some of you. Once we have defined waves and particles through listing their properties we will explore how these properties manifest for electrons and light.
+</para><para id="eip-270">As you read, you MUST keep in mind that light and electrons are neither particles nor waves. They are something completely new (quantum mechanical objects) that you have zero previous experience with. Particles and waves are simply ways of visualizing these objects in ways our brains can understand. Neither picture is 100% correct. The correct approach is to jump back-and-forth between these two pictures
+</para></content>
+
+</document>

@@ -1,0 +1,12 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>What is a Particle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68400</md:content-id>
+  <md:title>What is a Particle</md:title>
+  <md:abstract/>
+  <md:uuid>5ac9f010-81a4-4e2f-84ba-cf7c1456d85a</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-819"><label/><title><media id="inote2322i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote2322p"><para id="inote2322pp"> We talked about particles a lot in Physics 131 in the point mass approximation, but it's probably best that we flush out our definitions. </para></problem></exercise><para id="eip-62">What is a particle? The simplest image of a particle is probably just a ball. What properties apply to all particles?</para><para id="eip-872">In its most generic sense, a particle is a chunk of stuff. It exists in a particular place and at a particular time and a particle doesn't go around corners. If I throw a ball at a door, it'll either go through the door or bounce back, it won't curve around it. Particles can, but do not necessarily have to, have mass, we will talk about a massless particle in a later section. But all particles can be thought of as having momentum, that quantity from 131 of mass times velocity. Particles can also be thought of as having energy. </para></content>
+</document>

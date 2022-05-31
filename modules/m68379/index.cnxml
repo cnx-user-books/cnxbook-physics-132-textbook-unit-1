@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Unit 1 on a Page</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68379</md:content-id>
+  <md:title>Unit 1 on a Page</md:title>
+  <md:abstract/>
+  <md:uuid>19fee6e7-959d-44f7-97dd-97b53ed82c4d</md:uuid>
+</metadata>
+
+<content>
+  <para id="import-auto-idm217643168"><title>Principles and Definitions</title>If you have had me or Dr. Bourgeois for P131, you are familiar with a distinction I make between <emphasis effect="italics">principles</emphasis> and <emphasis effect="italics">definitions</emphasis>. Principles are the fundamental rules of the Universe that describe how things work. Definitions, on the other hand, simply describe a quantity. For example, <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>p</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mi>m</m:mi></m:mrow><m:mi/><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:annotation encoding="StarMath 5.0">widevec {p} =m widevec {v}</m:annotation></m:semantics></m:math> is the <emphasis effect="italics">definition </emphasis>of momentum for a massive particle; this equation offers no deep foundational insights on how the universe works. We physicists simply noted that the quantity <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mi/><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:annotation encoding="StarMath 5.0">widevec m widevec {v}</m:annotation></m:semantics></m:math> came up a lot and we gave it a name <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>p</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:mover accent="true"/></m:mrow><m:annotation encoding="StarMath 5.0">widevec {p} </m:annotation></m:semantics></m:math>. In order to describe how the Universe works, principles will often involve multiple definitions. Note, sometimes a principle or definition has an equation, other times it is just stated in words! This connects to Physics Goals 1 and 2 for this course. </para><para id="import-auto-idm429351856">To help get those of you who may not be used to this distinction acquainted and to help organize the huge amount of factual information in this particular unit, I will list the principles for this unit. You can quickly see how much shorter this list is than the list above. If fact, not every section in the Topics and Objectives has a principle! </para>
+      <list id="eip-754"><title>Basic Properties of Light</title><item>Light in a vacuum always travels at the speed of light </item>
+</list><list id="eip-986"><title>Basic Properties of Waves</title><item>Fundamental connection between wavelength, frequency, and wave speed: <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mi>λ</m:mi></m:mrow><m:mi>∙</m:mi><m:mi>f</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">v= λ ∙f</m:annotation></m:semantics></m:math></item>
+<item>Amplitude is independent of frequency</item>
+</list><list id="eip-202"><title>Basics of Energy</title><item>Energy is conserved: <m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>∆</m:mi>
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mrow>
+                <m:mi>Q</m:mi>
+                <m:mo stretchy="false">+</m:mo>
+                <m:mi>W</m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">∆E=Q+W</m:annotation>
+        </m:semantics>
+      </m:math>
+ (in this class <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>Q</m:mi></m:mover></m:mrow><m:mover accent="true"/></m:mrow><m:annotation encoding="StarMath 5.0">widevec {Q} </m:annotation></m:semantics></m:math> and <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>W</m:mi></m:mover></m:mrow><m:mover accent="true"/></m:mrow><m:annotation encoding="StarMath 5.0">widevec {W} </m:annotation></m:semantics></m:math> will most always be zero)</item>
+</list><list id="eip-389"><title>Wave Particle Duality</title><item>You can convert from the wave picture to the particle picture through the de Broglie relation: <m:math display="block"><m:semantics><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>h</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">p= {h} over {λ}</m:annotation></m:semantics></m:math>. NOTE, this is NOT <m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>E</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mi mathvariant="italic">hc</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">E= {hc} over {λ}</m:annotation>
+        </m:semantics>
+      </m:math>
+     that you learned in chemistry. The equation <m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>E</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mi mathvariant="italic">hc</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">E= {hc} over {λ}</m:annotation>
+        </m:semantics>
+      </m:math>
+     only applies for light while <m:math display="block"><m:semantics><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>h</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">p= {h} over {λ}</m:annotation></m:semantics></m:math> applies to BOTH light and electrons. </item>
+<item>The probability of finding a particle in a given location is proportional to the square of the amplitude</item>
+</list><list id="eip-127"><title>Standing Waves</title><item>The wave must “fit” in the box or on the ring. For a box, this means that the box must be an integer number of ½ wavelengths. For a ring, an integer number of waves must fit around the ring. </item>
+</list><para id="delete_me"><figure id="unit1onapage"><media id="unit1" alt="unit1 on a page">
+    <image mime-type="image/jpeg" src="../../media/P132 Unit I on-a-page.jpg"/>
+  </media>
+</figure></para><exercise id="eip-355"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This unit has a lot of ideas that can be connected in many different ways. A good way to represent such information is in a concept map such as the one shown above, which is also available at the link <link url="https://bubbl.us/NDgwODU5Ny85MjIwMTU5Lzc1YWFmZTk3YmYzOGFjOThjODQ5ZjVmYTc4YjA4NjYw-X" window="new"> here. </link></para>
+<para id="eip-idm453271040"><list id="eip-idm418966880"><title>In the map above:</title><item>UMass maroon bubbles are big ideas</item>
+<item>Yellow bubbles apply to massless particles like light</item>
+<item>Green bubbles apply to massive particles like electrons</item></list></para>
+<para id="eip-idm301494176">I would recommend printing a copy for use in class!
+</para></problem></exercise></content>
+
+</document>

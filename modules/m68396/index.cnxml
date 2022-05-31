@@ -1,0 +1,476 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Review of Problem Solving with Conservation of Energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68396</md:content-id>
+  <md:title>Review of Problem Solving with Conservation of Energy</md:title>
+  <md:abstract/>
+  <md:uuid>9a382d92-c829-4f5a-8862-31e07cad251b</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-610"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as two videos on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The links can be found <link url="https://youtu.be/5ptV55YE5JY" window="new"> here </link> and <link url="https://youtu.be/XuFANIkGGNI" window="new"> here. </link></para></problem></exercise><para id="import-auto-idm194029392">With what minimum speed must you toss a <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>140</m:mn><m:annotation encoding="StarMath 5.0">140</m:annotation></m:semantics></m:math> gram ball straight up to hit the <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>14</m:mn><m:annotation encoding="StarMath 5.0">14</m:annotation></m:semantics></m:math> meter high roof of a gymnasium if you release the ball <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>1.3</m:mn><m:annotation encoding="StarMath 5.0">1.3</m:annotation></m:semantics></m:math> meters above the ground? With what speed does the ball hit the ground? </para>
+    <para id="import-auto-idm559271568">You can use conservation of energy to solve this problem. </para>
+    <para id="import-auto-idm359473792">What is the initial energy state of the ball? We have some kinetic energy and some potential energy, so we have both. How do we know we have kinetic energy? Because we throw the ball, if the ball has no initial Kinetic energy which means it's not moving that means it doesn't go up, it had to have had some kinetic energy for it to actually go up and had to have some initial velocity when we threw it. Does it have any initial potential energy? The ball starts <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>1.3</m:mn><m:annotation encoding="StarMath 5.0">1.3</m:annotation></m:semantics></m:math> meters above the ground initially, this tells me it started out with some potential energy, it's already above the ground. </para>
+    <para id="import-auto-idm574427168">What is its final energy state in the perfect world in physics land? Does it have Kinetic energy at the roof? No, we're assuming it just touches the roof and has zero velocity at the roof for that moment in time, so its kinetic final energy is actually zero. All we have left is potential final energy. </para>
+    <equation id="import-auto-idm477595296">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{E} rsub {i} = {E} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm387187088">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>K</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mrow>
+              <m:msub>
+                <m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi>U</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msub>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>K</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi>U</m:mi>
+                </m:mrow>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{K} rsub {i} {+U} rsub {i} = {{K} rsub {f} +U} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm435467168">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>2</m:mn>
+            </m:mfrac>
+            <m:mi>m</m:mi>
+            <m:msup>
+              <m:mi>v</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mrow>
+              <m:msub>
+                <m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi mathvariant="italic">mgh</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msub>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi mathvariant="italic">mgh</m:mi>
+                </m:mrow>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{1} over {2} m {v} ^ {2} {+ mgh} rsub {i} = {0 +mgh} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm171545488">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>2</m:mn>
+            </m:mfrac>
+            <m:msup>
+              <m:mi>v</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mrow>
+              <m:msub>
+                <m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi mathvariant="italic">gh</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msub>
+                <m:mi mathvariant="italic">gh</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{1} over {2} {v} ^ {2} {+gh} rsub {i} = {gh} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="import-auto-idm481647952">What speed does it hit the ground? Energy initial equals energy final, what's the initial energy state? My initial is the ball at the top of the ceiling. My final is just before it hits the ground. How fast does it hit the ground? It started from the roof, falls down. What is the energy state at the roof? It's all potential. What's the energy state the moment before it hits the ground? It's lost all its potential energy, and its converted into kinetic energy.</para>
+    <equation id="import-auto-idm389200608">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{E} rsub {i} = {E} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm158711248">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>U</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:msub>
+              <m:mi>K</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{U} rsub {i} = {K} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm592099424">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi mathvariant="italic">mgh</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+            </m:mrow>
+            <m:mi>m</m:mi>
+            <m:msubsup>
+              <m:mi>v</m:mi>
+              <m:mi>f</m:mi>
+              <m:mn>2</m:mn>
+            </m:msubsup>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{mgh} rsub {i} = {1} over {2} m {v} rsub {f} rsup {2}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm574485392">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi mathvariant="italic">gh</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+            </m:mrow>
+            <m:msubsup>
+              <m:mi>v</m:mi>
+              <m:mi>f</m:mi>
+              <m:mn>2</m:mn>
+            </m:msubsup>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{gh} rsub {i} = {1} over {2} {v} rsub {f} rsup {2}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm408713536">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>v</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:msqrt>
+              <m:msub>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi mathvariant="italic">gh</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+            </m:msqrt>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{v} rsub {f} = sqrt {{2 gh} rsub {i}}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm400991056">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msqrt>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi>∙</m:mi>
+                  <m:mn>9.8</m:mn>
+                  <m:mi>∙</m:mi>
+                  <m:mn>14</m:mn>
+                </m:mrow>
+              </m:msqrt>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>16.6</m:mn>
+            </m:mrow>
+            <m:mrow>
+              <m:mi>m</m:mi>
+              <m:mo stretchy="false">/</m:mo>
+              <m:mi>s</m:mi>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{v} rsub {f} = sqrt {2∙9.8∙ 14} =16.6 m/s</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="import-auto-idm418940864">Your friends Frisbee has become stuck <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>26</m:mn><m:annotation encoding="StarMath 5.0">26</m:annotation></m:semantics></m:math> meters above the ground in a tree. You want to dislodge the Frisbee by throwing a rock at it. The Frisbee is stuck pretty tight, so you figure the rock needs to be traveling at least <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mn>5.4</m:mn><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">/</m:mo><m:mi>s</m:mi></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">5.4 m/s</m:annotation></m:semantics></m:math> when it hits the Frisbee. If you release the rock <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>1.6</m:mn><m:annotation encoding="StarMath 5.0">1.6</m:annotation></m:semantics></m:math> meters above the ground, with what minimum speed must you throw it? </para>
+    <para id="import-auto-idm658333216">Energy initial has to equal energy final, what is my initial state of affairs? When I'm throwing the rock, that's my initial state of affairs. Do I have kinetic energy in the beginning? I must have it. How do I know I must have kinetic energy? Because I'm throwing the rock, so the rock has to have some initial velocity. Do I have any initial potential energy? Yes, because I started <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mn>1.6</m:mn><m:annotation encoding="StarMath 5.0">1.6</m:annotation></m:semantics></m:math> meters above the ground. What's my final state of affairs? Do I have any kinetic energy at the end? When the rocks up there at the frisbee, does it have any kinetic energy? I know that it had to have a velocity, <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mn>5.4</m:mn><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">/</m:mo><m:mi>s</m:mi></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">5.4 m/s</m:annotation></m:semantics></m:math>, I know that the moment before I hit the frisbee I had to have this velocity. Therefore, I know I had some kinetic energy up there. Do I have any final potential energy? Yes, because it is up in the tree.</para>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-365"><m:math display="block"/>
+      <m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:msub>
+              <m:mi>E</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{E} rsub {i} = {E} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><equation id="import-auto-idm449697312">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>K</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mrow>
+              <m:msub>
+                <m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi>U</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msub>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>K</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi>U</m:mi>
+                </m:mrow>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{K} rsub {i} {+U} rsub {i} = {{K} rsub {f} +U} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm390111712">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>2</m:mn>
+            </m:mfrac>
+            <m:mi>m</m:mi>
+            <m:msubsup>
+              <m:mi>v</m:mi>
+              <m:mi>i</m:mi>
+              <m:mn>2</m:mn>
+            </m:msubsup>
+            <m:mrow>
+              <m:msub>
+                <m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi mathvariant="italic">mgh</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msub>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mi>m</m:mi>
+                  <m:mrow>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi mathvariant="italic">mgh</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{1} over {2} m {v} rsub {i} rsup {2} {+mgh} rsub {i} = {{1} over {2} m {v} rsub {f} rsup {2} +mgh} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm483618192">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>2</m:mn>
+            </m:mfrac>
+            <m:msubsup>
+              <m:mi>v</m:mi>
+              <m:mi>i</m:mi>
+              <m:mn>2</m:mn>
+            </m:msubsup>
+            <m:mrow>
+              <m:msub>
+                <m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mi mathvariant="italic">gh</m:mi>
+                </m:mrow>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:msub>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mrow>
+                    <m:msubsup>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi mathvariant="italic">gh</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mi>f</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{1} over {2} {v} rsub {i} rsup {2} {+gh} rsub {i} = {{1} over {2} {v} rsub {f} rsup {2} +gh} rsub {f}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="import-auto-idm162169296">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>v</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:msqrt>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>∙</m:mi>
+                <m:mrow>
+                  <m:mo fence="true" stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mi>v</m:mi>
+                              <m:mi>f</m:mi>
+                              <m:mn>2</m:mn>
+                            </m:msubsup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mi mathvariant="italic">gh</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:msub>
+                        <m:mi mathvariant="italic">gh</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mo fence="true" stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:msqrt>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{v} rsub {i} = sqrt {2∙( {{1} over {2} {v} rsub {f} rsup {2} +gh} rsub {f} - {gh} rsub {i} )}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    </content>
+</document>
