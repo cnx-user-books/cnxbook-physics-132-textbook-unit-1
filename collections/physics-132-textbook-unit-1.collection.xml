@@ -1,293 +1,80 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="UMass Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col25314</md:content-id>
-  <md:title>Physics 132 Textbook Unit 1</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>066a033a-ca21-4ece-a948-f506cdf9893d</md:uuid>
-<md:slug>physics-132-textbook-unit-1</md:slug>
-</metadata>
-
+    <md:content-id>col25314</md:content-id>
+    <md:title>Physics 132 Textbook Unit 1</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>066a033a-ca21-4ece-a948-f506cdf9893d</md:uuid>
+    <md:slug>physics-132-textbook-unit-1</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Introduction</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68379"/>
-        
-      
-    
-    
-      <col:module document="m68380"/>
-        
-      
-    
-    
-      <col:module document="m68381"/>
-        
-      
-    
-    
-      <col:module document="m68382"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Basics of Matter</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67537"/>
-        
-      
-    
-    
-      <col:module document="m67535"/>
-        
-      
-    
-    
-      <col:module document="m67534"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Basics of Particles</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68400"/>
-        
-      
-    
-    
-      <col:module document="m67593"/>
-        
-      
-    
-    
-      <col:module document="m67594"/>
-        
-      
-    
-    
-      <col:module document="m67595"/>
-        
-      
-    
-    
-      <col:module document="m67596"/>
-        
-      
-    
-    
-      <col:module document="m67597"/>
-        
-      
-    
-    
-      <col:module document="m67598"/>
-        
-      
-    
-    
-      <col:module document="m67600"/>
-        
-      
-    
-    
-      <col:module document="m67601"/>
-        
-      
-    
-    
-      <col:module document="m67603"/>
-        
-      
-    
-    
-      <col:module document="m67607"/>
-        
-      
-    
-    
-      <col:module document="m67605"/>
-        
-      
-    
-    
-      <col:module document="m67604"/>
-        
-      
-    
-    
-      <col:module document="m67606"/>
-        
-      
-    
-    
-      <col:module document="m67608"/>
-        
-      
-    
-    
-      <col:module document="m68396"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Basics of Waves</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m71627"/>
-        
-      
-    
-    
-      <col:module document="m67590"/>
-        
-      
-    
-    
-      <col:module document="m67591"/>
-        
-      
-    
-    
-      <col:module document="m68386"/>
-        
-      
-    
-    
-      <col:module document="m67592"/>
-        
-      
-    
-    
-      <col:module document="m67588"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Basics of Light</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68392"/>
-        
-      
-    
-    
-      <col:module document="m68393"/>
-        
-      
-    
-    
-      <col:module document="m67797"/>
-        
-      
-    
-    
-      <col:module document="m68389"/>
-        
-      
-    
-    
-      <col:module document="m67795"/>
-        
-      
-    
-    
-      <col:module document="m67796"/>
-        
-      
-    
-    
-      <col:module document="m67798"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Matter as a Wave</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m67623"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m68379"/>
+        <col:module document="m68380"/>
+        <col:module document="m68381"/>
+        <col:module document="m68382"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Basics of Matter</md:title>
+      <col:content>
+        <col:module document="m67537"/>
+        <col:module document="m67535"/>
+        <col:module document="m67534"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Basics of Particles</md:title>
+      <col:content>
+        <col:module document="m68400"/>
+        <col:module document="m67593"/>
+        <col:module document="m67594"/>
+        <col:module document="m67595"/>
+        <col:module document="m67596"/>
+        <col:module document="m67597"/>
+        <col:module document="m67598"/>
+        <col:module document="m67600"/>
+        <col:module document="m67601"/>
+        <col:module document="m67603"/>
+        <col:module document="m67607"/>
+        <col:module document="m67605"/>
+        <col:module document="m67604"/>
+        <col:module document="m67606"/>
+        <col:module document="m67608"/>
+        <col:module document="m68396"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Basics of Waves</md:title>
+      <col:content>
+        <col:module document="m71627"/>
+        <col:module document="m67590"/>
+        <col:module document="m67591"/>
+        <col:module document="m68386"/>
+        <col:module document="m67592"/>
+        <col:module document="m67588"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Basics of Light</md:title>
+      <col:content>
+        <col:module document="m68392"/>
+        <col:module document="m68393"/>
+        <col:module document="m67797"/>
+        <col:module document="m68389"/>
+        <col:module document="m67795"/>
+        <col:module document="m67796"/>
+        <col:module document="m67798"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Matter as a Wave</md:title>
+      <col:content>
+        <col:module document="m67623"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
